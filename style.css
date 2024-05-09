@@ -15,6 +15,11 @@ body {
     margin-bottom: 60px;
 }
 
+
+.post-header {
+    margin-bottom: 30px;
+}
+
 aside {
     background-color: #f7f7f7;
     border-top: 6px solid #1098ad;
@@ -50,6 +55,11 @@ h4{
 p {
     font-size: 22px;
     line-height: 1.5;
+    margin-bottom: 15px;
+}
+
+ul, ol {
+    margin-left: 50px;
 }
 
 li {
@@ -81,6 +91,7 @@ li:last-child {
     font-size: 18px;
     font-weight: bold;
 }
+
 
 
 
