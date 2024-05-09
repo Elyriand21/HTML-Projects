@@ -9,6 +9,14 @@ body {
     border-top: 10px solid #1098ad;
 }
 
+nav {
+    font-size: 18px;
+}
+
+article {
+    margin-bottom: 60px;
+}
+
 .main-header {
     background-color: #f7f7f7;
     padding: 20px 40px;
@@ -44,6 +52,8 @@ h2 {
 
 h3{
     font-size: 30px;
+    margin-bottom: 20px;
+    margin-top: 40px;
 }
 
 h4{
@@ -91,9 +101,6 @@ li:last-child {
     font-size: 18px;
     font-weight: bold;
 }
-
-
-
 
 li:first-child {
     font-weight: bold;
